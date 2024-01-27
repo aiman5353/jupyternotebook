@@ -1,52 +1,50 @@
-Data Science Tools and Ecosystem
+# Data Science Tools and Ecosystem
 In this notebook, Data Science Tools and Ecosystem are summarized.
 
-Objectives:
+**Objectives:**
 
-Popular language Data Scientist List
-Data Science Libraries List
-Data Science Tools List
+* Popular language Data Scientist List
+* Data Science Libraries List
+* Data Science Tools List
+
 Some of the popular languages that Data Scientists use are:
 
-PHYTON
-SQL
-R
-VBA
-JULIA
+1. PHYTON
+2. SQL 
+3. R 
+4. VBA 
+5. JULIA
+
 Some of the commonly used libraries used by Data Scientists include:
 
-TensorFlow
-NumPy
-Pandas
-Matplotlib
-# Define the header
+1. TensorFlow
+2. NumPy
+3. Pandas
+4. Matplotlib
+
+ Define the header
 header = "Data Science Tools"
-​
+
 # Define rows
 row1 = "JUPYTER NOTEBOOK"
 row2 = "TABLEAU"
 row3 = "APACHE SPARK"
-​
+
 # Separator line
 separator = "-" * len(header)
 print(header)
 print(separator)
-​
+
 # Print rows
 print(row1)
 print(row2)
 print(row3)
-Data Science Tools
-------------------
-JUPYTER NOTEBOOK
-TABLEAU
-APACHE SPARK
-Below are a few examples of evaluating arithmetic expressions in Python
- #This a simple arithmetic expression to mutiply then add integers
+
+### Below are a few examples of evaluating arithmetic expressions in Python
+#This a simple arithmetic expression to mutiply then add integers
  b=(3*4)+5
  print(b)
-    
-17
+
 #This will convert 200 minutes to hours by diving by 60
 #t in minutes
 t=200
@@ -54,9 +52,7 @@ t=200
 h=t/60
 #print result
 print(h)
-​
-​
-​
-3.3333333333333335
-AUTHOR
+
+
+## AUTHOR
 MUHAMAD AIMAN BIN JAMAL ABD NASIR
